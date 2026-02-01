@@ -1,5 +1,5 @@
 -- 名称
-name = "Quick Start"
+name = "log-play"
 -- 描述
 description = "Sample Mod"
 -- 作者
